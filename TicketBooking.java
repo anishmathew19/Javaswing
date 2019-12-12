@@ -25,7 +25,7 @@ import java.awt.event.ActionListener;
 import java.awt.event.ActionEvent;
 import javax.swing.SwingConstants;
 
-public class ticketbooking {
+public class TicketBooking {
 
 	private JFrame frame;
 	private JTextField tf1;
